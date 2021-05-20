@@ -15,4 +15,9 @@ h1 {
   padding: 20px;
   border-radius: 25px;
   align-items: center;
+  margin: auto;
+}
+footer {
+  text-align: center;
+  margin-top: 2rem;
 }
